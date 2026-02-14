@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cd6c643c-3987-4621-aee4-c2e832dc617f",
+    "name": "shaik shafiya",
+    "email": "shafiyashaik@gmail.com",
+    "password": "shafiya123",
+    "role": "candidate",
+    "profile": {
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Python"
+      ],
+      "experience": "3 years",
+      "education": "",
+      "bio": "",
+      "resumeAnalyzed": true,
+      "analyzedDate": "2026-02-08T19:08:35.601Z",
+      "resumeFile": "1770577711295.pdf"
+    }
+  }
+]

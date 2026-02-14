@@ -1,0 +1,677 @@
+[
+    {
+        "id": "1",
+        "title": "Frontend Developer",
+        "company": "Tech Solutions India",
+        "location": "Bangalore",
+        "type": "Full-time",
+        "salary": "₹8 - ₹12 LPA",
+        "description": "We are looking for a skilled Frontend Developer with React experience to join our Bangalore team.",
+        "skills": [
+            "React",
+            "JavaScript",
+            "Tailwind CSS"
+        ],
+        "experience": "2+ years",
+        "postedDate": "2023-10-25T10:00:00Z"
+    },
+    {
+        "id": "2",
+        "title": "Backend Engineer",
+        "company": "Data Systems",
+        "location": "Hyderabad",
+        "type": "Full-time",
+        "salary": "₹12 - ₹18 LPA",
+        "description": "Join our backend team to build scalable APIs using Node.js.",
+        "skills": [
+            "Node.js",
+            "Express",
+            "MongoDB"
+        ],
+        "experience": "3+ years",
+        "postedDate": "2023-10-24T09:30:00Z"
+    },
+    {
+        "id": "3",
+        "title": "Full Stack Developer",
+        "company": "Startup Hub",
+        "location": "Pune",
+        "type": "Contract",
+        "salary": "₹50,000/month",
+        "description": "Need a full stack developer for a 6-month project.",
+        "skills": [
+            "React",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "experience": "4+ years",
+        "postedDate": "2023-10-26T14:15:00Z"
+    },
+    {
+        "id": "4",
+        "title": "Machine Learning Engineer",
+        "company": "AI Innovations",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": "₹20 - ₹35 LPA",
+        "description": "Develop and deploy ML models for NLP applications.",
+        "skills": [
+            "Python",
+            "TensorFlow",
+            "NLP"
+        ],
+        "experience": "3+ years",
+        "postedDate": "2023-10-27T11:00:00Z"
+    },
+    {
+        "id": "5",
+        "title": "Product Designer",
+        "company": "Creative Studio",
+        "location": "Mumbai",
+        "type": "Full-time",
+        "salary": "₹10 - ₹15 LPA",
+        "description": "Design intuitive user interfaces for web and mobile apps.",
+        "skills": [
+            "Figma",
+            "UI/UX",
+            "Prototyping"
+        ],
+        "experience": "2+ years",
+        "postedDate": "2023-10-23T16:45:00Z"
+    },
+    {
+        "id": "6",
+        "title": "AI/ML Engineer",
+        "company": "NeuroTech Solutions",
+        "location": "Bangalore",
+        "type": "Full-time",
+        "salary": "₹18 - ₹25 LPA",
+        "description": "Build next-gen AI models for healthcare applications.",
+        "skills": [
+            "Python",
+            "PyTorch",
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "experience": "3+ years",
+        "postedDate": "2023-11-01T09:00:00Z"
+    },
+    {
+        "id": "7",
+        "title": "HR Manager",
+        "company": "Global Corp",
+        "location": "Delhi-NCR",
+        "type": "Full-time",
+        "salary": "₹10 - ₹14 LPA",
+        "description": "Oversee recruitment, employee relations, and benefits administration.",
+        "skills": [
+            "Human Resources",
+            "Recruitment",
+            "Employee Relations",
+            "Communication"
+        ],
+        "experience": "5+ years",
+        "postedDate": "2023-11-02T10:30:00Z"
+    },
+    {
+        "id": "8",
+        "title": "Product Manager",
+        "company": "InnovateX",
+        "location": "Bangalore",
+        "type": "Full-time",
+        "salary": "₹25 - ₹40 LPA",
+        "description": "Lead cross-functional teams to deliver world-class software products.",
+        "skills": [
+            "Product Management",
+            "Agile",
+            "Strategy",
+            "Roadmapping"
+        ],
+        "experience": "4+ years",
+        "postedDate": "2023-11-03T14:45:00Z"
+    },
+    {
+        "id": "9",
+        "title": "Marketing Specialist",
+        "company": "BrandBoost",
+        "location": "Mumbai",
+        "type": "Contract",
+        "salary": "₹40,000/month",
+        "description": "Execute digital marketing campaigns and analyze performance metrics.",
+        "skills": [
+            "Digital Marketing",
+            "SEO",
+            "Content Creation",
+            "Google Analytics"
+        ],
+        "experience": "2+ years",
+        "postedDate": "2023-11-04T11:15:00Z"
+    },
+    {
+        "id": "10",
+        "title": "Data Scientist",
+        "company": "DataDriven Co.",
+        "location": "Chennai",
+        "type": "Full-time",
+        "salary": "₹15 - ₹22 LPA",
+        "description": "Analyze large datasets to drive business decision-making.",
+        "skills": [
+            "Python",
+            "SQL",
+            "Data Analysis",
+            "Visualization"
+        ],
+        "experience": "3+ years",
+        "postedDate": "2023-11-05T08:00:00Z"
+    },
+    {
+        "id": "11",
+        "title": "DevOps Engineer",
+        "company": "Cloud Systems",
+        "location": "Hyderabad",
+        "type": "Full-time",
+        "salary": "₹15 - ₹20 LPA",
+        "description": "Manage cloud infrastructure and CI/CD pipelines.",
+        "skills": [
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "Jenkins"
+        ],
+        "experience": "4+ years",
+        "postedDate": "2023-11-06T09:00:00Z"
+    },
+    {
+        "id": "12",
+        "title": "Business Analyst",
+        "company": "FinTech Corp",
+        "location": "Mumbai",
+        "type": "Full-time",
+        "salary": "₹9 - ₹13 LPA",
+        "description": "Analyze business processes and requirements.",
+        "skills": [
+            "Business Analysis",
+            "SQL",
+            "Requirements Gathering",
+            "Communication"
+        ],
+        "experience": "3+ years",
+        "postedDate": "2023-11-07T10:00:00Z"
+    },
+    {
+        "id": "13",
+        "title": "Senior Product Manager",
+        "company": "NextGen FinTech",
+        "location": "Bangalore",
+        "type": "Full-time",
+        "salary": "₹30 - ₹45 LPA",
+        "description": "Drive product strategy and execution for our core digital payment platform.",
+        "skills": [
+            "Product Management",
+            "Agile",
+            "User Research",
+            "Roadmapping"
+        ],
+        "experience": "7+ years",
+        "postedDate": "2026-02-01T10:00:00Z"
+    },
+    {
+        "id": "14",
+        "title": "HR Director",
+        "company": "Enterprise Global",
+        "location": "Mumbai",
+        "type": "Full-time",
+        "salary": "₹40 - ₹60 LPA",
+        "description": "Lead strategic HR initiatives across multiple regional offices.",
+        "skills": [
+            "Strategic HR",
+            "Talent Management",
+            "Leadership",
+            "Organizational Development"
+        ],
+        "experience": "12+ years",
+        "postedDate": "2026-02-02T09:30:00Z"
+    },
+    {
+        "id": "15",
+        "title": "Operations Manager",
+        "company": "Logistics Pro",
+        "location": "Chennai",
+        "type": "Full-time",
+        "salary": "₹15 - ₹22 LPA",
+        "description": "Oversee daily logistics operations and optimize supply chain efficiency.",
+        "skills": [
+            "Operations Management",
+            "Supply Chain",
+            "Process Optimization",
+            "Logistics"
+        ],
+        "experience": "5+ years",
+        "postedDate": "2026-02-03T11:15:00Z"
+    },
+    {
+        "id": "16",
+        "title": "Project Manager",
+        "company": "Construction Excellence",
+        "location": "Delhi-NCR",
+        "type": "Contract",
+        "salary": "₹1.5 - ₹2 Lakhs/month",
+        "description": "Manage large-scale commercial construction projects from initiation to completion.",
+        "skills": [
+            "Project Management",
+            "Construction Safety",
+            "Budgeting",
+            "Stakeholder Management"
+        ],
+        "experience": "8+ years",
+        "postedDate": "2026-02-04T14:45:00Z"
+    },
+    {
+        "id": "17",
+        "title": "Sales Manager",
+        "company": "Growth Dynamics",
+        "location": "Pune",
+        "type": "Full-time",
+        "salary": "₹18 - ₹28 LPA",
+        "description": "Lead a high-performing sales team to achieve regional revenue targets.",
+        "skills": [
+            "Sales Leadership",
+            "B2B Sales",
+            "CRM",
+            "Forecasting"
+        ],
+        "experience": "6+ years",
+        "postedDate": "2026-02-05T08:00:00Z"
+    },
+    {
+        "id": "18",
+        "title": "Engineering Manager",
+        "company": "Cloud Innovators",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": "₹45 - ₹65 LPA",
+        "description": "Manage a team of software engineers building scalable cloud-native applications.",
+        "skills": [
+            "Engineering Management",
+            "System Design",
+            "Mentorship",
+            "Architecture"
+        ],
+        "experience": "10+ years",
+        "postedDate": "2026-02-06T09:00:00Z"
+    },
+    {
+        "id": "19",
+        "title": "Marketing Director",
+        "company": "Fashion Forward",
+        "location": "Mumbai",
+        "type": "Full-time",
+        "salary": "₹35 - ₹50 LPA",
+        "description": "Develop and execute integrated marketing strategies for a luxury fashion brand.",
+        "skills": [
+            "Brand Strategy",
+            "Digital Marketing",
+            "Budget Planning",
+            "Market Research"
+        ],
+        "experience": "9+ years",
+        "postedDate": "2026-02-07T10:30:00Z"
+    },
+    {
+        "id": "20",
+        "title": "IT Manager",
+        "company": "SecureNet Systems",
+        "location": "Hyderabad",
+        "type": "Full-time",
+        "salary": "₹20 - ₹30 LPA",
+        "description": "Oversee corporate IT infrastructure, security, and technical support.",
+        "skills": [
+            "IT Strategy",
+            "Network Security",
+            "Compliance",
+            "Infrastructure Management"
+        ],
+        "experience": "8+ years",
+        "postedDate": "2026-02-08T11:00:00Z"
+    },
+    {
+        "id": "21",
+        "title": "Finance Manager",
+        "company": "Capital Growth",
+        "location": "Bangalore",
+        "type": "Full-time",
+        "salary": "₹25 - ₹35 LPA",
+        "description": "Lead financial planning, analysis, and reporting for our investment division.",
+        "skills": [
+            "Financial Planning",
+            "FP&A",
+            "Auditing",
+            "Investment Analysis"
+        ],
+        "experience": "7+ years",
+        "postedDate": "2026-02-09T09:15:00Z"
+    },
+    {
+        "id": "22",
+        "title": "Content Strategy Manager",
+        "company": "Media Hub",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": "₹12 - ₹18 LPA",
+        "description": "Define and oversee content strategy across multiple digital platforms.",
+        "skills": [
+            "Content Strategy",
+            "SEO",
+            "Editing",
+            "Audience Engagement"
+        ],
+        "experience": "5+ years",
+        "postedDate": "2026-02-10T10:45:00Z"
+    },
+    {
+        "id": "23",
+        "title": "Supply Chain Manager",
+        "company": "Global Logistics",
+        "location": "Chennai",
+        "type": "Full-time",
+        "salary": "₹18 - ₹25 LPA",
+        "description": "Optimize end-to-end supply chain processes to reduce costs and improve lead times.",
+        "skills": [
+            "Supply Chain Optimization",
+            "Inventory Management",
+            "Logistics",
+            "Vendor Management"
+        ],
+        "experience": "6+ years",
+        "postedDate": "2026-02-11T13:20:00Z"
+    },
+    {
+        "id": "24",
+        "title": "Business Development Manager",
+        "company": "Tech Partners",
+        "location": "Delhi-NCR",
+        "type": "Full-time",
+        "salary": "₹20 - ₹30 LPA",
+        "description": "Identify new business opportunities and build strategic partnerships.",
+        "skills": [
+            "Business Development",
+            "Partnerships",
+            "Sales Pipeline",
+            "Networking"
+        ],
+        "experience": "5+ years",
+        "postedDate": "2026-02-12T14:10:00Z"
+    },
+    {
+        "id": "25",
+        "title": "Customer Success Manager",
+        "company": "SaaS Solutions",
+        "location": "Hyderabad",
+        "type": "Full-time",
+        "salary": "₹12 - ₹18 LPA",
+        "description": "Ensure customer satisfaction and retention for our enterprise software clients.",
+        "skills": [
+            "Customer Success",
+            "Account Management",
+            "Onboarding",
+            "Retention Strategy"
+        ],
+        "experience": "4+ years",
+        "postedDate": "2026-02-13T11:55:00Z"
+    },
+    {
+        "id": "26",
+        "title": "Quality Assurance Manager",
+        "company": "Auto Parts Corp",
+        "location": "Pune",
+        "type": "Full-time",
+        "salary": "₹15 - ₹22 LPA",
+        "description": "Maintain high quality standards across manufacturing processes and products.",
+        "skills": [
+            "Quality Management",
+            "Six Sigma",
+            "ISO Standards",
+            "Process Improvement"
+        ],
+        "experience": "7+ years",
+        "postedDate": "2026-02-14T09:40:00Z"
+    },
+    {
+        "id": "27",
+        "title": "Regional Sales Director",
+        "company": "Pharma Core",
+        "location": "Mumbai",
+        "type": "Full-time",
+        "salary": "₹45 - ₹65 LPA",
+        "description": "Lead the sales strategy for the Western region and manage regional teams.",
+        "skills": [
+            "Sales Strategy",
+            "Leadership",
+            "Pharma Sales",
+            "Business Expansion"
+        ],
+        "experience": "12+ years",
+        "postedDate": "2026-02-15T10:15:00Z"
+    },
+    {
+        "id": "28",
+        "title": "Digital Transformation Manager",
+        "company": "Consulting Group",
+        "location": "Bangalore",
+        "type": "Full-time",
+        "salary": "₹30 - ₹45 LPA",
+        "description": "Guide clients through their digital transformation journeys and tech adoption.",
+        "skills": [
+            "Digital Strategy",
+            "Change Management",
+            "IT Consulting",
+            "Business Analysis"
+        ],
+        "experience": "8+ years",
+        "postedDate": "2026-02-16T15:30:00Z"
+    },
+    {
+        "id": "29",
+        "title": "Training & Development Manager",
+        "company": "Corporate Academy",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": "₹14 - ₹20 LPA",
+        "description": "Design and implement learning programs to enhance employee skills and performance.",
+        "skills": [
+            "Employee Training",
+            "L&D Strategy",
+            "Curriculum Design",
+            "Performance Management"
+        ],
+        "experience": "6+ years",
+        "postedDate": "2026-02-17T11:20:00Z"
+    },
+    {
+        "id": "30",
+        "title": "Facilities Manager",
+        "company": "Workspace Solutions",
+        "location": "Hyderabad",
+        "type": "Full-time",
+        "salary": "₹10 - ₹15 LPA",
+        "description": "Manage office facilities, maintenance, and space planning across multiple locations.",
+        "skills": [
+            "Facility Management",
+            "Maintenance Planning",
+            "Vendor Negotiation",
+            "Health & Safety"
+        ],
+        "experience": "5+ years",
+        "postedDate": "2026-02-18T08:50:00Z"
+    },
+    {
+        "id": "31",
+        "title": "Strategic Sourcing Manager",
+        "company": "Retail Giant",
+        "location": "Mumbai",
+        "type": "Full-time",
+        "salary": "₹22 - ₹32 LPA",
+        "description": "Develop and execute global sourcing strategies to optimize procurement costs.",
+        "skills": [
+            "Strategic Sourcing",
+            "Procurement",
+            "Negotiation",
+            "Supplier Relationship Management"
+        ],
+        "experience": "8+ years",
+        "postedDate": "2026-02-19T10:05:00Z"
+    },
+    {
+        "id": "32",
+        "title": "Legal Operations Manager",
+        "company": "Legal Partners",
+        "location": "Delhi-NCR",
+        "type": "Full-time",
+        "salary": "₹18 - ₹26 LPA",
+        "description": "Optimize legal department operations, technology, and financial management.",
+        "skills": [
+            "Legal Operations",
+            "Project Management",
+            "Budgeting",
+            "Contract Management"
+        ],
+        "experience": "6+ years",
+        "postedDate": "2026-02-20T14:40:00Z"
+    },
+    {
+        "id": "33",
+        "title": "Software Engineer",
+        "company": "NextWave Technologies",
+        "location": "Bangalore",
+        "type": "Full-time",
+        "salary": "₹10 - ₹16 LPA",
+        "description": "Develop and maintain scalable web applications using modern frameworks.",
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "MySQL"
+        ],
+        "experience": "2+ years",
+        "postedDate": "2026-02-21T09:00:00Z"
+    },
+    {
+        "id": "34",
+        "title": "Cloud Architect",
+        "company": "SkyNet Cloud",
+        "location": "Hyderabad",
+        "type": "Full-time",
+        "salary": "₹35 - ₹55 LPA",
+        "description": "Design and implement secure, scalable cloud architectures for enterprise clients.",
+        "skills": [
+            "AWS",
+            "Azure",
+            "Cloud Security",
+            "Architecture"
+        ],
+        "experience": "10+ years",
+        "postedDate": "2026-02-21T11:30:00Z"
+    },
+    {
+        "id": "35",
+        "title": "Data Engineer",
+        "company": "BigData Labs",
+        "location": "Pune",
+        "type": "Full-time",
+        "salary": "₹14 - ₹22 LPA",
+        "description": "Build and optimize data pipelines for analytics and machine learning workloads.",
+        "skills": [
+            "Python",
+            "Spark",
+            "ETL",
+            "SQL"
+        ],
+        "experience": "3+ years",
+        "postedDate": "2026-02-22T10:15:00Z"
+    },
+    {
+        "id": "36",
+        "title": "UI Engineer",
+        "company": "DesignFirst",
+        "location": "Mumbai",
+        "type": "Full-time",
+        "salary": "₹9 - ₹14 LPA",
+        "description": "Create high-quality user interfaces with a focus on performance and usability.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ],
+        "experience": "2+ years",
+        "postedDate": "2026-02-22T14:45:00Z"
+    },
+    {
+        "id": "37",
+        "title": "Cyber Security Analyst",
+        "company": "SecureOps",
+        "location": "Delhi-NCR",
+        "type": "Full-time",
+        "salary": "₹12 - ₹20 LPA",
+        "description": "Monitor systems for security threats and implement mitigation strategies.",
+        "skills": [
+            "Cyber Security",
+            "SIEM",
+            "Network Security",
+            "Risk Analysis"
+        ],
+        "experience": "3+ years",
+        "postedDate": "2026-02-23T09:40:00Z"
+    },
+    {
+        "id": "38",
+        "title": "Mobile App Developer",
+        "company": "AppWorks",
+        "location": "Chennai",
+        "type": "Full-time",
+        "salary": "₹8 - ₹13 LPA",
+        "description": "Develop cross-platform mobile applications with smooth user experiences.",
+        "skills": [
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "REST APIs"
+        ],
+        "experience": "2+ years",
+        "postedDate": "2026-02-23T13:10:00Z"
+    },
+    {
+        "id": "39",
+        "title": "AI Research Engineer",
+        "company": "FutureAI Labs",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": "₹25 - ₹40 LPA",
+        "description": "Research and develop advanced AI algorithms for real-world applications.",
+        "skills": [
+            "Python",
+            "Deep Learning",
+            "PyTorch",
+            "Research"
+        ],
+        "experience": "4+ years",
+        "postedDate": "2026-02-24T10:00:00Z"
+    },
+    {
+        "id": "40",
+        "title": "Technical Program Manager",
+        "company": "ScaleUp Corp",
+        "location": "Bangalore",
+        "type": "Full-time",
+        "salary": "₹28 - ₹42 LPA",
+        "description": "Coordinate large-scale technical programs across multiple engineering teams.",
+        "skills": [
+            "Program Management",
+            "Agile",
+            "Stakeholder Management",
+            "Planning"
+        ],
+        "experience": "8+ years",
+        "postedDate": "2026-02-24T15:30:00Z"
+    }
+]

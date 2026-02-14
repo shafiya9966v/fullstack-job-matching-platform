@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), url('/student_searching_job_ai_laptop.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
