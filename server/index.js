@@ -26,6 +26,17 @@ app.get('/', (req, res) => {
     res.send('AI Job Search Platform API is running');
 });
 
+// Serve frontend in production
+if (process.env.NODE_ENV === 'production') {
+    app.use(express.static(path.join(__dirname, '../client/dist')));
+
+    app.get('*', (req, res) => {
+        if (!req.path.startsWith('/api')) {
+            res.sendFile(path.join(__dirname, '../client/dist', 'index.html'));
+        }
+    });
+}
+
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
