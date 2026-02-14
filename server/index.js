@@ -30,9 +30,9 @@ app.get('/', (req, res) => {
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.join(__dirname, '../client/dist')));
 
-    app.get('/*', (req, res) => {
+    app.use((req, res) => {
         if (!req.path.startsWith('/api')) {
-            res.sendFile(path.join(__dirname, '../client/dist', 'index.html'));
+            res.sendFile(path.join(__dirname, '../client/dist/index.html'));
         }
     });
 }
